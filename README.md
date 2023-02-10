@@ -14,3 +14,6 @@ Here are some of the commen creational patterns:
 
 These patterns provide a convenient way to create objects and help to reduce the complexity in the desgn be breaking down the creation process into smaller, more manageable parts.
 
+### Abstract Factory
+
+Here is an example of the Abstract Factory pattern in C:
