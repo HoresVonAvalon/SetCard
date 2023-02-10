@@ -1,6 +1,6 @@
 # Builder Pattern in C#
 
-The code demonstrates an implementaion of the builder desgn pattern in C#.
+The code demonstrates an implementaion of the builder design pattern in C#.
 
 The builder pattern is a creational design pattern that allows you to create complex objects by using a step-by-step approach, 
 rather than creating the object all at once in a single constructor call.
